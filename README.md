@@ -1,2 +1,1 @@
-# PCA-and-K-means-clustering-on-toy-datasets
-Principal component analysis with K-means clustering on a toy dataset
+In my fifth homework for my "Math for Data Science" class, I was tasked with comparing how effective K-means clustering is in its base form, versus applying principal component analysis and then K-means clustering.
